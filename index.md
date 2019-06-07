@@ -15,6 +15,7 @@ instructor: ["Elisabeth Shook"] # boxed, comma-separated list of instructors' na
 helper: ["Stacy Curry-Johnson, Sarah Swanz"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["elisabeth.r.shook@vanderbilt.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/VU_Library_Carpentry_7_18-19             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+registration: "https://forms.office.com/Pages/ResponsePage.aspx?id=OX9aur7js0q0UGf6gPrsrW7-BU3HxaBJv2VfGkQ-R9NUOUpCMlBSWDdBTjlGV0JNWjZRUU1DNFJBSy4u"
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
